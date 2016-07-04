@@ -13,6 +13,6 @@ java -jar D:\dev\ed-utility.jar C:\commmons\links.json encrypt xyzkey
 
 Screenshot:
 
-![Alt text](ed-utility-screenshott.png?raw=true "Optional Title")
+![Alt text](/encryption-decryption-tool/blob/master/ed-utility-screenshott.PNG?raw=true "Optional Title")
 
 
